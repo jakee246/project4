@@ -1,0 +1,20 @@
+html {
+  margin:0;
+  padding:0;
+  background-color:#A9A9A9;
+  color:#FFFFFF;
+}
+
+body {
+  margin:0;
+  padding:0;
+}
+
+h1{
+  text-align:center;
+}
+
+
+img {
+  border-radius:25px;
+}
